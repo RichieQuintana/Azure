@@ -1,0 +1,1 @@
+middleware que siga métricas de una base de datos en Azure, puedes utilizar Azure Monitor para recopilar y analizar las métricas. Aquí te dejo un ejemplo de cómo podrías implementar esto en Node.js utilizando la API REST de Azure Monitor.
