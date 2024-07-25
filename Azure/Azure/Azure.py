@@ -4,7 +4,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-tenant_id = '585a4d92-db1d-4bbb-b5ac-c5299e3894e3'
+tenant_id = 'bee53ca7-4878-4548-90d6-ef673a0d7271'
 client_id = 'f21cd79c-2839-4e77-9ea8-097f3e308d5a'
 client_secret = 'a9c7ce98-25d8-4536-8dfa-4390b1a1ef0d'  # Reemplaza con tu Client Secret
 subscription_id = '7577655b-4420-4a12-a431-712303899b92'  # Reemplaza con tu Subscription ID
